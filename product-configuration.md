@@ -1,0 +1,51 @@
+# Product Configuration
+
+#####  [Order now](https://puqcloud.com/whmcs-module-jellyfin.php) | [Download](https://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-Jellyfin/) | [FAQ](https://faq.puqcloud.com/)
+
+##### Create a new Products/Services
+
+```
+System Settings->Products/Services->Create a New Product
+```
+
+In the **Module settings** section, select the **"PUQ Jellyfin"** module
+
+[![2023-11-02_14-42.png](https://doc.puq.info/uploads/images/gallery/2023-11/scaled-1680-/2023-11-02-14-42.png)](https://doc.puq.info/uploads/images/gallery/2023-11/2023-11-02-14-42.png)
+
+- **License key:** A pre-purchased license key for the **"PUQ Jellyfin"** module. For the module to work correctly, the key must be active
+
+##### Libraries:
+
+- The libraries you want to make available to customers of this product.  
+    <span style="color: #ff0000;">**(IMPORTANT! Start a new line for each new library)**</span>  
+    Example:  
+    "Movies  
+    Beginner`s Programming Course  
+    Comedy"
+
+##### User Configuration:
+
+- **Streaming bitrate limit:** An optional per-stream bitrate limit for all out of network devices. This is useful to prevent devices from requesting a higher bitrate than your internet connection can handle. This may result in increased CPU load on your server in order to transcode videos on the fly to a lower bitrate.
+- **SyncPlay access:** The SyncPlay feature enables to sync playback with other devices. Select the level of access this user has to the SyncPlay
+- **Remote control:** Remote control of shared devices (DLNA devices are considered shared until a user begins controlling them)
+- **Media downloads:** Users can download media and store it on their devices. This is not the same as a sync feature. Book libraries require this enabled to function properly.
+- **User sessions:** Set the maximum number of simultaneous user sessions. <div>A value of 0 will disable the feature.</div>
+- **Failed login attempts:** Determine how many incorrect login tries can be made before lockout occurs. <div>A value of zero means inheriting the default of three tries for normal users and five for administrators. Setting this to -1 will disable the feature.</div>
+- **Username prefix/Username suffix:** Necessary in order to generate a username for the service, in the format: **prefix&lt;cliet\_id&gt;-&lt;service\_id&gt;suffix**
+
+##### Allow playback (Restricting access to transcoding may cause playback failures in clients due to unsupported media formats)
+
+- **media**
+- **audio that requires transcoding**
+- **video that requires transcoding**
+- **video that requires conversion without re-encoding**
+
+##### Feature access:
+
+- **Allow Live TV access**
+- **Allow Live TV recording management**
+- **Force transcoding of remote media sources such as Live TV**
+
+##### Links
+
+- **Link to instruction:** Link to the instruction, if filled out, it will be reflected in the client area

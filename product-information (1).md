@@ -1,0 +1,7 @@
+# Product Information
+
+#####  [Order now](https://puqcloud.com/whmcs-module-jellyfin.php) | [Download](https://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-Jellyfin/) | [FAQ](https://faq.puqcloud.com/)
+
+##### Here is the data presented for the service admin in WHMCS
+
+[![2023-11-02_14-37.png](https://doc.puq.info/uploads/images/gallery/2023-11/scaled-1680-/2023-11-02-14-37.png)](https://doc.puq.info/uploads/images/gallery/2023-11/2023-11-02-14-37.png)
