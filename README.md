@@ -5,9 +5,11 @@ It facilitates the creation of customer accounts on a pre-configured Jellyfin se
 The module requires a pre-installed Jellyfin server and uses the Jellyfin API for client account management. It also supports multiple languages.
 Administrators can suspend, terminate, or unsuspend users, change user passwords, and more, while clients can manage their devices and libraries.
 
-# Description
+## Jellyfin module **[WHMCS](https://puqcloud.com/link.php?id=77)**
 
 #####  [Order now](https://puqcloud.com/whmcs-module-jellyfin.php) | [Download](https://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-Jellyfin/) | [FAQ](https://faq.puqcloud.com/)
+
+# Description
 
 Thanks to the module, the company is able to offer public media services to its customers based on Jellyfin accounts.
 
