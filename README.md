@@ -55,6 +55,6 @@ The module is used to create customer accounts on the previously prepared Jellyf
 
 >Jellyfin minimal version: 10+
 
-[![2023-11-02_14-05.png](https://doc.puq.info/uploads/images/gallery/2023-11/scaled-1680-/2023-11-02-14-05.png)](https://doc.puq.info/uploads/images/gallery/2023-11/2023-11-02-14-05.png)
+![image](https://github.com/user-attachments/assets/c89336fb-c9f6-4235-9ed9-8904f8d1e374)
 
 [![2023-11-02_14-37.png](https://doc.puq.info/uploads/images/gallery/2023-11/scaled-1680-/2023-11-02-14-37.png)](https://doc.puq.info/uploads/images/gallery/2023-11/2023-11-02-14-37.png)
